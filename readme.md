@@ -61,7 +61,7 @@ The subjects we need to covers
 |neural networks |        |
 |---------------:|-------:|
 |LeNet, resnet, squeezenet ... |   |
-|?               |        |
+|              |        |
 
 
 
